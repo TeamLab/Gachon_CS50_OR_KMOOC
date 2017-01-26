@@ -18,43 +18,31 @@ K-MOOC: Operation Research with Python
 * Email: teamlab.gachon@gmail.com
 
 ## 강의 구성
-### 1주차: Introduction to Operation Research with Python
-- Lecture: Introduction to Operation Research - 강의영상, 강의자료
-- Lecture: How to model and code OR problems with Python - 강의영상, 강의자료
-- Lab: 파이썬 개발 환경 세팅 
-    - OR 문제해결을 위한 파이썬 패키지 소개 - 강의영상, 강의자료
-    - OR 문제해결을 위한 파이썬 패키지 설치 - 강의영상, 강의자료
-    - Test: Numpy, Matplotlib, gurobi - 강의영상, 강의자료
+### 1주차: Introduction to Operation Research
+- Lecture: Operation Research Overview - [강의영상](https://vimeo.com/200529833/e77d19e230), [강의자료](https://doc.co/h3T7mC/D3RiTL)
+- Lecture: OR Concepts - [강의영상](https://vimeo.com/200532720/aef0e447f5), [강의자료](https://doc.co/e2id4b/D3RiTL)
+- Lecture: How to model and code OR problems - [강의영상](https://vimeo.com/200824850/7fd63a9296), [강의자료](https://doc.co/9amvEi/D3RiTL)
 
-### 2주차: Linear Algebra I
-- Lecture: Vector - 강의영상, 강의자료
-- Lab: Vector Implementation with Python - 강의영상, 강의자료
-- Lecture: Matrix - 강의영상, 강의자료
-- Lab: Matrix Implementation with Python - 강의영상, 강의자료
-- Assignment: Linear Algebra Implement with Python
+### 2주차: Linear Algebra 
+- Lecture: Linear Algebra - 강의영상, [강의자료](https://doc.co/4HegFG/D3RiTL)
+- Lecture: Vector - 강의영상, [강의자료](https://doc.co/4HegFG/D3RiTL)
+- Lecture: Matrix - 강의영상, [강의자료](https://doc.co/tyNqM3/D3RiTL)
 
-### 3주차: Linear Algebra II
-- Lecture: Matrix and Systems of Linear Equations - 강의영상, 강의자료
-- Lab: Matrix and Systems of Linear Equations - 강의영상, 강의자료
-- Lecture: Gauss-Jordan Elimination - 강의영상, 강의자료
-- Lab: Gauss-Jordan Elimination - 강의영상, 강의자료
-- Lecture: Matirix Concepts - 강의영상, 강의자료
+### 3주차: Python for Optimization
+- Lecture: Python Environment for Operation Research - [강의영상](https://vimeo.com/200824978/511ea6f111), 강의자료
+- Lab: Environment Setup - 강의영상, [강의자료](https://doc.co/CMHm6X/D3RiTL)
+- Lab: Python for Vector Representation - 강의영상, [강의자료](https://doc.co/5LDoYQ/D3RiTL)
+- Lab: Python for Matrix Representation - 강의영상, [강의자료](https://doc.co/sGDpMb/D3RiTL)
 
-### 4주차: Introduction to Linear Programming
-- Lecture: Linear Programming Concepts - 강의영상, 강의자료
-- Lab: MatplotLib - 강의영상, 강의자료
-- Lecture: LP Graphical Solution - 강의영상, 강의자료
-- Lab: LP Graphical Solution - 강의영상, 강의자료
-- Lecture: LP with Python and Gurobi - 강의영상, 강의자료
-- Lab: LP with Python and Gurobi - 강의영상, 강의자료
+### 4주차: Systems of Linear Equations
+- Lecture: Overview - 강의영상, [강의자료](https://doc.co/dzqFM8/D3RiTL)
+- Lecture: Process of Gauss Jordan Elimination - 강의영상, [강의자료](https://doc.co/Q5Kz9H/D3RiTL)
 
-### 5주차: LP Applications
-- Lecture: Linear Programming Concepts - 강의영상, 강의자료
-- Lab: MatplotLib - 강의영상, 강의자료
-2-4 식단문제/생산 및 배분
-2-5 배합문제/생산 계획문제
-2-6 포트폴리오 선택문제
-2-7 선형계획법의 기본가정 / 한계
+### 5주차: Python for Linear Equations 
+- Lecture: Overview - 강의영상, 강의자료
+- Lab: Numpy Part 1 - 강의영상, 강의자료
+- Lab: Numpy Part 2 - 강의영상, 강의자료
+- Lab: Gauss Jordan Elimination with Numpy - 강의영상, 강의자료
 
 ### 6주차: Simplex Method
 - Simplex Algorithm Concepts - 강의영상, 강의자료
