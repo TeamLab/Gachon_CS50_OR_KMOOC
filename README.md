@@ -24,8 +24,8 @@ K-MOOC: Operation Research with Python
 - Lecture: How to model and code OR problems - [강의영상](https://vimeo.com/200824850/7fd63a9296), [강의자료](https://doc.co/9amvEi/D3RiTL)
 
 ### 2주차: Linear Algebra 
-- Lecture: Linear Algebra - 강의영상, [강의자료](https://doc.co/4HegFG/D3RiTL)
-- Lecture: Vector - 강의영상, [강의자료](https://doc.co/4HegFG/D3RiTL)
+- Lecture: Linear Algebra - [강의영상](https://vimeo.com/201844594/ad4de3c09c), [강의자료](https://doc.co/4HegFG/D3RiTL)
+- Lecture: Vector - [강의영상](https://vimeo.com/201845189/0e305c314c), [강의자료](https://doc.co/4HegFG/D3RiTL)
 - Lecture: Matrix - 강의영상, [강의자료](https://doc.co/tyNqM3/D3RiTL)
 
 ### 3주차: Python for Optimization
@@ -35,14 +35,13 @@ K-MOOC: Operation Research with Python
 - Lab: Python for Matrix Representation - 강의영상, [강의자료](https://doc.co/sGDpMb/D3RiTL)
 
 ### 4주차: Systems of Linear Equations
-- Lecture: Overview - 강의영상, [강의자료](https://doc.co/dzqFM8/D3RiTL)
+- Lecture: Overview - [강의영상](https://vimeo.com/201843101/ecb673ca19), [강의자료](https://doc.co/dzqFM8/D3RiTL)
 - Lecture: Process of Gauss Jordan Elimination - 강의영상, [강의자료](https://doc.co/Q5Kz9H/D3RiTL)
 
 ### 5주차: Python for Linear Equations 
-- Lecture: Overview - 강의영상, 강의자료
-- Lab: Numpy Part 1 - 강의영상, 강의자료
-- Lab: Numpy Part 2 - 강의영상, 강의자료
-- Lab: Gauss Jordan Elimination with Numpy - 강의영상, 강의자료
+- Lecture: Overview - 강의영상, [강의자료](https://doc.co/ePmebL/D3RiTL)
+- Lab: Numpy Part 1 - 강의영상, [강의자료](https://doc.co/1rp33T/D3RiTL)
+- Lab: Numpy Part 2 - 강의영상, [강의자료](https://doc.co/mziVa1/D3RiTL)
 
 ### 6주차: Simplex Method
 - Simplex Algorithm Concepts - 강의영상, 강의자료
