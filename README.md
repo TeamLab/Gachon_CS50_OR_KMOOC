@@ -30,9 +30,9 @@ K-MOOC: Operation Research with Python
 
 ### 3주차: Python for Optimization
 - Lecture: Python Environment for Operation Research - [강의영상](https://vimeo.com/200824978/511ea6f111), 강의자료
-- Lab: Environment Setup - 강의영상, [강의자료](https://doc.co/CMHm6X/D3RiTL)
-- Lab: Python for Vector Representation - 강의영상, [강의자료](https://doc.co/5LDoYQ/D3RiTL)
-- Lab: Python for Matrix Representation - 강의영상, [강의자료](https://doc.co/sGDpMb/D3RiTL)
+- Lab: Environment Setup - [강의영상](https://vimeo.com/202051405/91b1763245), [강의자료](https://doc.co/CMHm6X/D3RiTL)
+- Lab: Python for Vector Representation - [강의영상](https://vimeo.com/202051556/47d480d7a8), [강의자료](https://doc.co/5LDoYQ/D3RiTL)
+- Lab: Python for Matrix Representation - [강의영상](https://vimeo.com/202051267/e746ba56a4), [강의자료](https://doc.co/sGDpMb/D3RiTL)
 
 ### 4주차: Systems of Linear Equations
 - Lecture: Overview - [강의영상](https://vimeo.com/201843101/ecb673ca19), [강의자료](https://doc.co/dzqFM8/D3RiTL)
@@ -40,7 +40,7 @@ K-MOOC: Operation Research with Python
 
 ### 5주차: Python for Linear Equations 
 - Lecture: Overview - 강의영상, [강의자료](https://doc.co/ePmebL/D3RiTL)
-- Lab: Numpy Part 1 - 강의영상, [강의자료](https://doc.co/1rp33T/D3RiTL)
+- Lab: Numpy Part 1 - [강의영상](https://vimeo.com/202051668/7b689589b3), [강의자료](https://doc.co/1rp33T/D3RiTL)
 - Lab: Numpy Part 2 - 강의영상, [강의자료](https://doc.co/mziVa1/D3RiTL)
 
 ### 6주차: Simplex Method
