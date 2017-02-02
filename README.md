@@ -43,8 +43,18 @@ K-MOOC: Operation Research with Python
 - Lab: Numpy Part 1 - [강의영상](https://vimeo.com/202051668/7b689589b3), [강의자료](https://doc.co/1rp33T/D3RiTL)
 - Lab: Numpy Part 2 - 강의영상, [강의자료](https://doc.co/mziVa1/D3RiTL)
 
-### 6주차: Simplex Method
-- Simplex Algorithm Concepts - 강의영상, 강의자료
+### 6주차: Linear Programming
+- Lecture: Linear Programming Overview - 강의영상, [강의자료](https://doc.co/4n21zH/D3RiTL)
+- Lecture: Graphical Solution for LP - 강의영상, [강의자료](https://doc.co/UFqcH1/D3RiTL)
+- Lab: Graphical Solution using Python - 강의영상, [강의자료](https://doc.co/7naGkR/D3RiTL)
+- Lab: Linear Programming using Gurobi - 강의영상, [강의자료](https://doc.co/nBwDT1/D3RiTL)
+
+### 7주차: LP Application #1
+
+### 8주차: LP Application #2
+
+### 9주차: Simplex Method
+
 - Numpy - 강의영상, 강의자료
 - Assignment: Simplex Algorithm with Numpy - 강의영상, 강의자료
 - Infeasible solution - 강의영상, 강의자료
