@@ -26,7 +26,7 @@ K-MOOC: Operation Research with Python
 ### 2주차: Linear Algebra 
 - Lecture: Linear Algebra - [강의영상](https://vimeo.com/201844594/ad4de3c09c), [강의자료](https://doc.co/4HegFG/D3RiTL)
 - Lecture: Vector - [강의영상](https://vimeo.com/201845189/0e305c314c), [강의자료](https://doc.co/4HegFG/D3RiTL)
-- Lecture: Matrix - 강의영상, [강의자료](https://doc.co/tyNqM3/D3RiTL)
+- Lecture: Matrix - [강의영상](https://vimeo.com/202476406/a68392b43d), [강의자료](https://doc.co/tyNqM3/D3RiTL)
 
 ### 3주차: Python for Optimization
 - Lecture: Python Environment for Operation Research - [강의영상](https://vimeo.com/200824978/511ea6f111), 강의자료
@@ -36,7 +36,7 @@ K-MOOC: Operation Research with Python
 
 ### 4주차: Systems of Linear Equations
 - Lecture: Overview - [강의영상](https://vimeo.com/201843101/ecb673ca19), [강의자료](https://doc.co/dzqFM8/D3RiTL)
-- Lecture: Process of Gauss Jordan Elimination - 강의영상, [강의자료](https://doc.co/Q5Kz9H/D3RiTL)
+- Lecture: Process of Gauss Jordan Elimination - [강의영상](https://vimeo.com/202475159/d378be798e), [강의자료](https://doc.co/Q5Kz9H/D3RiTL)
 
 ### 5주차: Python for Linear Equations 
 - Lecture: Overview - 강의영상, [강의자료](https://doc.co/ePmebL/D3RiTL)
