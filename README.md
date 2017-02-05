@@ -90,60 +90,36 @@ K-MOOC: Operation Research with Python
   [강의자료](https://doc.co/nBwDT1/D3RiTL)
 
 ### 7주차: LP Application #1
-- Lecture: Application Overview - 강의영상,
-  [강의자료]()
-- Lab: Diet Problem - 강의영상,
-  [강의자료]()
-- Lab: Work Scheduling Problem  - 강의영상,
-  [강의자료]()
-- Lab: Project Selection - 강의영상,
-  [강의자료]()
+- Lecture: Application Overview -
+  [강의영상](), [강의자료](https://doc.co/3HzbcX/D3RiTL)
+- Lab: Diet Problem -
+  [강의영상](https://vimeo.com/202598830/0e4599765a), [강의자료](https://doc.co/wTgcst/D3RiTL)
+- Lab: Work Scheduling Problem -
+  [강의영상](https://vimeo.com/202601643/8c1ebea5ad), [강의자료](https://doc.co/v9RkQx/D3RiTL)
+- Lab: Project Selection -
+  [강의영상](https://vimeo.com/202616712/790ad30941), [강의자료](https://doc.co/W1x4k3/D3RiTL)
 
 ### 8주차: LP Application #2
+- Lab: Blending Problems -
+  [강의영상](), [강의자료](https://doc.co/VFgdeu/D3RiTL)
+- Lab: Inventory problems -
+  [강의영상](), [강의자료](https://doc.co/uWE7uy/D3RiTL)
+- Lab: Multiperiod Financial Models -
+  [강의영상](), [강의자료](https://doc.co/F9JKZr/D3RiTL)
 
-### 9주차: Simplex Method
+### 9주차: Simplex Algorithm
+- Lecture - Standard Form
+  [강의영상](), [강의자료](https://doc.co/k7hWgr/D3RiTL)
+- Lecture - Basic Variable & Non-Basic Variable
+  [강의영상](), [강의자료](https://doc.co/w8RUWg/D3RiTL)
+- Lecture - Simplex Algorithm Process
+  [강의영상](), [강의자료](https://doc.co/VBMo8j/D3RiTL)
 
-- Numpy - 강의영상, 강의자료
-- Assignment: Simplex Algorithm with Numpy - 강의영상, 강의자료
-- Infeasible solution - 강의영상, 강의자료
-- Unbounded LP - 강의영상, 강의자료
-- Degeneracy and convergence - 강의영상, 강의자료
+### 10주차: Network Model
+- Network model basic concepts - [강의영상](), [강의자료]()
+- Assignment - [강의영상](), [강의자료]()
+- Transportation - [강의영상](), [강의자료]()
+- Transshipment - [강의영상](), [강의자료]()
 
-### 10주차: Network Model I - Transportation, Assignment,and Transshipment Problems
-
-- Network model basic concepts
-- Transportation
-- Transshipment
-- Assignment
-
-### 11주차: Network Model II
-
-- Shortest Path Problems
-- Maximum-Flow Problems
-- CPM and PERT
-- Minimum-Cost Network Flow Problems
-
-### 12주차: Integer Programming
-
-- Introduction to Intger Programming
-- Formulating Intger Programming Problems
-- The Branch-and-Bound Method
-
-### 13주차: Review of Probability
-
-- Probability basics
-- Bayes's Rule
-- Normal Distribtuon
-
-### 14주차: Decision Making under Uncertainty
-
-- Utility Theory
-- Decision Tree
-- AHP
-
-### 15주차: Probabilistic Inventory Models
-
-### 16주차: Markov Chains
-
-### 17주차: Queueing Theory and Simulation
-
+### 11주차: Wrap-Up
+- Data Science Overview & Next work - [강의영상](), [강의자료]()
