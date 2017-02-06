@@ -101,19 +101,19 @@ K-MOOC: Operation Research with Python
 
 ### 8주차: LP Application #2
 - Lab: Blending Problems -
-  [강의영상](), [강의자료](https://doc.co/VFgdeu/D3RiTL)
+  [강의영상](https://vimeo.com/202694598/3863ef7d0d), [강의자료](https://doc.co/VFgdeu/D3RiTL)
 - Lab: Inventory problems -
-  [강의영상](), [강의자료](https://doc.co/uWE7uy/D3RiTL)
+  [강의영상](https://vimeo.com/202699768/73e94a7c51), [강의자료](https://doc.co/uWE7uy/D3RiTL)
 - Lab: Multiperiod Financial Models -
-  [강의영상](), [강의자료](https://doc.co/F9JKZr/D3RiTL)
+  [강의영상](https://vimeo.com/202703623/1da3f3a836), [강의자료](https://doc.co/F9JKZr/D3RiTL)
 
 ### 9주차: Simplex Algorithm
 - Lecture - Standard Form
-  [강의영상](), [강의자료](https://doc.co/k7hWgr/D3RiTL)
+  [강의영상](https://vimeo.com/202712086/e5bf0b440e), [강의자료](https://doc.co/k7hWgr/D3RiTL)
 - Lecture - Basic Variable & Non-Basic Variable
-  [강의영상](), [강의자료](https://doc.co/w8RUWg/D3RiTL)
+  [강의영상](https://vimeo.com/202722029/f3d03e7e3a), [강의자료](https://doc.co/w8RUWg/D3RiTL)
 - Lecture - Simplex Algorithm Process
-  [강의영상](), [강의자료](https://doc.co/VBMo8j/D3RiTL)
+  [강의영상](https://vimeo.com/202717997/c6905dd53e), [강의자료](https://doc.co/VBMo8j/D3RiTL)
 
 ### 10주차: Network Model
 - Network model basic concepts - [강의영상](), [강의자료]()
