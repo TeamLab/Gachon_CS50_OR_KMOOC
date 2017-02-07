@@ -68,7 +68,7 @@ K-MOOC: Operation Research with Python
 
 ### 5주차: Python for Linear Equations
 
-- Lecture: Overview - 강의영상, [강의자료](https://doc.co/ePmebL/D3RiTL)
+- Lecture: Overview - [강의영상](https://vimeo.com/202729287/d729dbceb9), [강의자료](https://doc.co/ePmebL/D3RiTL)
 - Lab: Numpy Part 1 -
   [강의영상](https://vimeo.com/202051668/7b689589b3),
   [강의자료](https://doc.co/1rp33T/D3RiTL)
@@ -78,7 +78,7 @@ K-MOOC: Operation Research with Python
 
 ### 6주차: Linear Programming
 
-- Lecture: Linear Programming Overview - 강의영상,
+- Lecture: Linear Programming Overview - [강의영상](https://vimeo.com/202734444/8cd34969d4),
   [강의자료](https://doc.co/4n21zH/D3RiTL)
 - Lecture: Graphical Solution for LP - 강의영상,
   [강의자료](https://doc.co/UFqcH1/D3RiTL)
