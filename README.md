@@ -39,7 +39,7 @@ K-MOOC: Operation Research with Python
   [강의영상](https://vimeo.com/201844594/ad4de3c09c),
   [강의자료](https://doc.co/4HegFG/D3RiTL)
 - Lecture: Vector - [강의영상](https://vimeo.com/201845189/0e305c314c),
-  [강의자료](https://doc.co/4HegFG/D3RiTL)
+  [강의자료](https://docs.com/choi-sungchul/91855e5f-a6ee-4b56-9ef0-1abf7a037f2a/2-2-vector)
 - Lecture: Matrix - [강의영상](https://vimeo.com/202476406/a68392b43d),
   [강의자료](https://doc.co/tyNqM3/D3RiTL)
 
@@ -91,7 +91,7 @@ K-MOOC: Operation Research with Python
 
 ### 7주차: LP Application #1
 - Lecture: Application Overview -
-  [강의영상](), [강의자료](https://doc.co/3HzbcX/D3RiTL)
+  [강의영상](https://vimeo.com/202876321/9c0dc51dc1), [강의자료](https://doc.co/3HzbcX/D3RiTL)
 - Lab: Diet Problem -
   [강의영상](https://vimeo.com/202598830/0e4599765a), [강의자료](https://doc.co/wTgcst/D3RiTL)
 - Lab: Work Scheduling Problem -
