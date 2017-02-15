@@ -27,28 +27,28 @@ K-MOOC: Operation Research with Python
   [강의영상](https://vimeo.com/200529833/e77d19e230),
   [강의자료](https://doc.co/h3T7mC/D3RiTL)
 - Lecture: OR Concepts -
-  [강의영상](https://vimeo.com/200532720/aef0e447f5),
+  [강의영상](https://vimeo.com/203947167/1d34393317),
   [강의자료](https://doc.co/e2id4b/D3RiTL)
 - Lecture: How to model and code OR problems -
-  [강의영상](https://vimeo.com/200824850/7fd63a9296),
+  [강의영상](https://vimeo.com/203948706/59746252b3),
   [강의자료](https://doc.co/9amvEi/D3RiTL)
 
 ### 2주차: Linear Algebra
 
 - Lecture: Linear Algebra -
-  [강의영상](https://vimeo.com/201844594/ad4de3c09c),
+  [강의영상](https://vimeo.com/203950333/375b442946),
   [강의자료](https://doc.co/4HegFG/D3RiTL)
-- Lecture: Vector - [강의영상](https://vimeo.com/201845189/0e305c314c),
+- Lecture: Vector - [강의영상](https://vimeo.com/203953467/7a22970040),
   [강의자료](https://docs.com/choi-sungchul/91855e5f-a6ee-4b56-9ef0-1abf7a037f2a/2-2-vector)
-- Lecture: Matrix - [강의영상](https://vimeo.com/202476406/a68392b43d),
+- Lecture: Matrix - [강의영상](https://vimeo.com/203957996/a56615af4a),
   [강의자료](https://doc.co/tyNqM3/D3RiTL)
 
 ### 3주차: Python for Optimization
 
 - Lecture: Python Environment for Operation Research -
-  [강의영상](https://vimeo.com/200824978/511ea6f111), 강의자료
+  [강의영상](https://vimeo.com/203989171/7f3590d0b0), 강의자료
 - Lab: Environment Setup -
-  [강의영상](https://vimeo.com/202051405/91b1763245),
+  [강의영상](https://vimeo.com/203998332/d7b28a2b12),
   [강의자료](https://doc.co/CMHm6X/D3RiTL)
 - Lab: Python for Vector Representation -
   [강의영상](https://vimeo.com/202051556/47d480d7a8),
