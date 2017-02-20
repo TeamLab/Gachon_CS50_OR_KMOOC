@@ -27,7 +27,7 @@ K-MOOC: Operation Research with Python
   [강의영상](https://vimeo.com/200529833/e77d19e230),
   [강의자료](https://doc.co/h3T7mC/D3RiTL)
 - Lecture: OR Concepts -
-  [강의영상](https://vimeo.com/200532720/aef0e447f5),
+  [강의영상](https://vimeo.com/204832264/44994e8ec2),
   [강의자료](https://doc.co/e2id4b/D3RiTL)
 - Lecture: How to model and code OR problems -
   [강의영상](https://vimeo.com/200824850/7fd63a9296),
@@ -60,10 +60,10 @@ K-MOOC: Operation Research with Python
 ### 4주차: Systems of Linear Equations
 
 - Lecture: Overview -
-  [강의영상](https://vimeo.com/201843101/ecb673ca19),
+  [강의영상](https://vimeo.com/204833686/9ef2d8b772),
   [강의자료](https://doc.co/dzqFM8/D3RiTL)
 - Lecture: Process of Gauss Jordan Elimination -
-  [강의영상](https://vimeo.com/202475159/d378be798e),
+  [강의영상](https://vimeo.com/204834243/3fd8bf85c2),
   [강의자료](https://doc.co/Q5Kz9H/D3RiTL)
 
 ### 5주차: Python for Linear Equations
@@ -78,26 +78,26 @@ K-MOOC: Operation Research with Python
 
 ### 6주차: Linear Programming
 
-- Lecture: Linear Programming Overview - [강의영상](https://vimeo.com/202734444/8cd34969d4),
+- Lecture: Linear Programming Overview - [강의영상](https://vimeo.com/204835880/d36b4ea247),
   [강의자료](https://doc.co/4n21zH/D3RiTL)
 - Lecture: Graphical Solution for LP - 강의영상,
   [강의자료](https://doc.co/UFqcH1/D3RiTL)
 - Lab: Graphical Solution using Python -
-  [강의영상](https://vimeo.com/202507241/ae725f94b0),
+  [강의영상](https://vimeo.com/204837178/08cd7f5d98),
   [강의자료](https://doc.co/7naGkR/D3RiTL)
 - Lab: Linear Programming using Gurobi -
-  [강의영상](https://vimeo.com/202509934/7b729bfd35),
+  [강의영상](https://vimeo.com/204837417/5a3e9bf863),
   [강의자료](https://doc.co/nBwDT1/D3RiTL)
 
 ### 7주차: LP Application #1
 - Lecture: Application Overview -
-  [강의영상](https://vimeo.com/202876321/9c0dc51dc1), [강의자료](https://doc.co/3HzbcX/D3RiTL)
+  [강의영상](https://vimeo.com/204838997/10c2ef4c2f), [강의자료](https://doc.co/3HzbcX/D3RiTL)
 - Lab: Diet Problem -
-  [강의영상](https://vimeo.com/202598830/0e4599765a), [강의자료](https://doc.co/wTgcst/D3RiTL)
+  [강의영상](https://vimeo.com/204839745/c4b114a842), [강의자료](https://doc.co/wTgcst/D3RiTL)
 - Lab: Work Scheduling Problem -
-  [강의영상](https://vimeo.com/202601643/8c1ebea5ad), [강의자료](https://doc.co/v9RkQx/D3RiTL)
+  [강의영상](https://vimeo.com/204840029/f50be6be2b), [강의자료](https://doc.co/v9RkQx/D3RiTL)
 - Lab: Project Selection -
-  [강의영상](https://vimeo.com/202616712/790ad30941), [강의자료](https://doc.co/W1x4k3/D3RiTL)
+  [강의영상](https://vimeo.com/204840423/fd2191a24b), [강의자료](https://doc.co/W1x4k3/D3RiTL)
 
 ### 8주차: LP Application #2
 - Lab: Blending Problems -
