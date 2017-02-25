@@ -24,46 +24,46 @@ K-MOOC: Operation Research with Python
 ### 1주차: Introduction to Operation Research
 
 - Lecture: Operation Research Overview -
-  [강의영상](https://vimeo.com/200529833/e77d19e230),
+  [강의영상](https://youtu.be/aoAjofpLgWI?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/h3T7mC/D3RiTL)
 - Lecture: OR Concepts -
-  [강의영상](https://vimeo.com/203947167/1d34393317),
+  [강의영상](https://youtu.be/VeWUaFEPeCQ?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/e2id4b/D3RiTL)
 - Lecture: How to model and code OR problems -
-  [강의영상](https://vimeo.com/203948706/59746252b3),
+  [강의영상](https://youtu.be/8i6oA2JXISc?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/9amvEi/D3RiTL)
 
 ### 2주차: Linear Algebra
 
 - Lecture: Linear Algebra -
-  [강의영상](https://vimeo.com/203950333/375b442946),
+  [강의영상](https://youtu.be/YB0guLHMtVA?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/4HegFG/D3RiTL)
-- Lecture: Vector - [강의영상](https://vimeo.com/203953467/7a22970040),
+- Lecture: Vector - [강의영상](https://youtu.be/I2yW-gvE4Bg?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://docs.com/choi-sungchul/91855e5f-a6ee-4b56-9ef0-1abf7a037f2a/2-2-vector)
-- Lecture: Matrix - [강의영상](https://vimeo.com/203957996/a56615af4a),
+- Lecture: Matrix - [강의영상](https://youtu.be/CnjVc8Ci3ME?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/tyNqM3/D3RiTL)
 
 ### 3주차: Python for Optimization
 
 - Lecture: Python Environment for Operation Research -
-  [강의영상](https://vimeo.com/203989171/7f3590d0b0), 강의자료
+  [강의영상](https://youtu.be/DVFvST5Jr2k?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), 강의자료
 - Lab: Environment Setup -
-  [강의영상](https://vimeo.com/203998332/d7b28a2b12),
+  [강의영상](https://youtu.be/tJDPOMf0sqE?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/CMHm6X/D3RiTL)
 - Lab: Python for Vector Representation -
-  [강의영상](https://vimeo.com/202051556/47d480d7a8),
+  [강의영상](https://youtu.be/U-AOsDhAA0k?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/5LDoYQ/D3RiTL)
 - Lab: Python for Matrix Representation -
-  [강의영상](https://vimeo.com/202051267/e746ba56a4),
+  [강의영상](https://youtu.be/s1PEcsrQDQ8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/sGDpMb/D3RiTL)
 
 ### 4주차: Systems of Linear Equations
 
 - Lecture: Overview -
-  [강의영상](https://vimeo.com/204833686/9ef2d8b772),
+  [강의영상](https://youtu.be/N-qyBYP_ncE?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/dzqFM8/D3RiTL)
 - Lecture: Process of Gauss Jordan Elimination -
-  [강의영상](https://vimeo.com/204834243/3fd8bf85c2),
+  [강의영상](https://youtu.be/3HGQIsap090?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/Q5Kz9H/D3RiTL)
 
 ### 5주차: Python for Linear Equations
@@ -78,34 +78,34 @@ K-MOOC: Operation Research with Python
 
 ### 6주차: Linear Programming
 
-- Lecture: Linear Programming Overview - [강의영상](https://vimeo.com/204835880/d36b4ea247),
+- Lecture: Linear Programming Overview - [강의영상](https://youtu.be/ABh2xQC5q28?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/4n21zH/D3RiTL)
 - Lecture: Graphical Solution for LP - 강의영상,
   [강의자료](https://doc.co/UFqcH1/D3RiTL)
 - Lab: Graphical Solution using Python -
-  [강의영상](https://vimeo.com/204837178/08cd7f5d98),
+  [강의영상](https://youtu.be/7y724Y3dTHQ?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/7naGkR/D3RiTL)
 - Lab: Linear Programming using Gurobi -
-  [강의영상](https://vimeo.com/204837417/5a3e9bf863),
+  [강의영상](https://youtu.be/bm7HsHnxFr0?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/nBwDT1/D3RiTL)
 
 ### 7주차: LP Application #1
 - Lecture: Application Overview -
-  [강의영상](https://vimeo.com/204838997/10c2ef4c2f), [강의자료](https://doc.co/3HzbcX/D3RiTL)
+  [강의영상](https://youtu.be/AtxmJRVmtwA?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/3HzbcX/D3RiTL)
 - Lab: Diet Problem -
-  [강의영상](https://vimeo.com/204839745/c4b114a842), [강의자료](https://doc.co/wTgcst/D3RiTL)
+  [강의영상](https://youtu.be/mS6uJwTT8Yk?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/wTgcst/D3RiTL)
 - Lab: Work Scheduling Problem -
-  [강의영상](https://vimeo.com/204840029/f50be6be2b), [강의자료](https://doc.co/v9RkQx/D3RiTL)
+  [강의영상](https://youtu.be/igj5EDyl9p8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/v9RkQx/D3RiTL)
 - Lab: Project Selection -
-  [강의영상](https://vimeo.com/204840423/fd2191a24b), [강의자료](https://doc.co/W1x4k3/D3RiTL)
+  [강의영상](https://youtu.be/kUtorfK2KJ8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/W1x4k3/D3RiTL)
 
 ### 8주차: LP Application #2
 - Lab: Blending Problems -
-  [강의영상](https://vimeo.com/202694598/3863ef7d0d), [강의자료](https://doc.co/VFgdeu/D3RiTL)
+  [강의영상](https://youtu.be/nOhos1kKo2c?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VFgdeu/D3RiTL)
 - Lab: Inventory problems -
-  [강의영상](https://vimeo.com/202699768/73e94a7c51), [강의자료](https://doc.co/uWE7uy/D3RiTL)
+  [강의영상](https://youtu.be/V05wfu5lLG8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/uWE7uy/D3RiTL)
 - Lab: Multiperiod Financial Models -
-  [강의영상](https://vimeo.com/202703623/1da3f3a836), [강의자료](https://doc.co/F9JKZr/D3RiTL)
+  [강의영상](https://youtu.be/8z1javfoqh0?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/F9JKZr/D3RiTL)
 
 ### 9주차: Simplex Algorithm
 - Lecture - Standard Form
