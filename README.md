@@ -80,7 +80,7 @@ K-MOOC: Operation Research with Python
 
 - Lecture: Linear Programming Overview - [강의영상](https://youtu.be/ABh2xQC5q28?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/4n21zH/D3RiTL)
-- Lecture: Graphical Solution for LP - 강의영상,
+- Lecture: Graphical Solution for LP - [강의영상](),
   [강의자료](https://doc.co/UFqcH1/D3RiTL)
 - Lab: Graphical Solution using Python -
   [강의영상](https://youtu.be/7y724Y3dTHQ?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
@@ -109,11 +109,11 @@ K-MOOC: Operation Research with Python
 
 ### 9주차: Simplex Algorithm
 - Lecture - Standard Form
-  [강의영상](https://vimeo.com/202712086/e5bf0b440e), [강의자료](https://doc.co/k7hWgr/D3RiTL)
+  [강의영상](https://youtu.be/eqgLsDfrddY?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/k7hWgr/D3RiTL)
 - Lecture - Basic Variable & Non-Basic Variable
-  [강의영상](https://vimeo.com/202722029/f3d03e7e3a), [강의자료](https://doc.co/w8RUWg/D3RiTL)
+  [강의영상](https://youtu.be/E9aNwcrXz-s?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/w8RUWg/D3RiTL)
 - Lecture - Simplex Algorithm Process
-  [강의영상](https://vimeo.com/202717997/c6905dd53e), [강의자료](https://doc.co/VBMo8j/D3RiTL)
+  [강의영상](https://youtu.be/xvhmqiv-ql8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VBMo8j/D3RiTL)
 
 ### 10주차: Network Model
 - Network model basic concepts - [강의영상](), [강의자료]()
