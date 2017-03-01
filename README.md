@@ -68,16 +68,15 @@ K-MOOC: Operation Research with Python
 
 ### 5주차: Python for Linear Equations
 
-- Lecture: Overview - [강의영상](https://vimeo.com/202729287/d729dbceb9), [강의자료](https://doc.co/ePmebL/D3RiTL)
+- Lecture: Overview - [강의영상](https://www.youtube.com/watch?v=zSe-mkGxtBo&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=27&t=2s), [강의자료](https://doc.co/ePmebL/D3RiTL)
 - Lab: Numpy Part 1 -
-  [강의영상](https://vimeo.com/202051668/7b689589b3),
+  [강의영상](https://www.youtube.com/watch?v=Fm1sWcdL_ak&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=30&t=214s),
   [강의자료](https://doc.co/1rp33T/D3RiTL)
 - Lab: Numpy Part 2 -
-  [강의영상](https://vimeo.com/202504928/8595bb7eb4),
+  [강의영상](https://www.youtube.com/watch?v=Sbywpatl-BA&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=29&t=27s),
   [강의자료](https://doc.co/mziVa1/D3RiTL)
 
 ### 6주차: Linear Programming
-
 - Lecture: Linear Programming Overview - [강의영상](https://youtu.be/ABh2xQC5q28?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/4n21zH/D3RiTL)
 - Lecture: Graphical Solution for LP - [강의영상](),
@@ -117,7 +116,7 @@ K-MOOC: Operation Research with Python
 
 ### 10주차: Network Model
 - Network model basic concepts - [강의영상](), [강의자료]()
-- Assignment - [강의영상](), [강의자료]()
+- Assignment - [강의영상](https://www.youtube.com/watch?v=MWySWZhSzwk&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=28&t=26s), [강의자료]()
 - Transportation - [강의영상](), [강의자료]()
 - Transshipment - [강의영상](), [강의자료]()
 
