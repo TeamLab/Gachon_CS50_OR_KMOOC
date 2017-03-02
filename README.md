@@ -115,7 +115,7 @@ K-MOOC: Operation Research with Python
   [강의영상](https://youtu.be/xvhmqiv-ql8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VBMo8j/D3RiTL)
 
 ### 10주차: Network Model
-- Network model basic concepts - [강의영상](), [강의자료]()
+- Network model basic concepts - [강의영상](https://vimeo.com/206497991/7f0c7d4233), [강의자료]()
 - Assignment - [강의영상](https://www.youtube.com/watch?v=MWySWZhSzwk&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=28&t=26s), [강의자료]()
 - Transportation - [강의영상](https://www.youtube.com/watch?v=kpG6EAblTj8&t=5s&index=31&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]()
 - Transshipment - [강의영상](https://www.youtube.com/watch?v=glFUXwmOJhk&index=33&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]()
