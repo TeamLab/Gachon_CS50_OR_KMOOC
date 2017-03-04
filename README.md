@@ -46,7 +46,7 @@ K-MOOC: Operation Research with Python
 ### 3주차: Python for Optimization
 
 - Lecture: Python Environment for Operation Research -
-  [강의영상](https://youtu.be/DVFvST5Jr2k?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), 강의자료
+  [강의영상](https://youtu.be/DVFvST5Jr2k?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/Rz2wAA/D3RiTL)
 - Lab: Environment Setup -
   [강의영상](https://youtu.be/tJDPOMf0sqE?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/CMHm6X/D3RiTL)
@@ -79,7 +79,7 @@ K-MOOC: Operation Research with Python
 ### 6주차: Linear Programming
 - Lecture: Linear Programming Overview - [강의영상](https://youtu.be/ABh2xQC5q28?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/4n21zH/D3RiTL)
-- Lecture: Graphical Solution for LP - [강의영상](),
+- Lecture: Graphical Solution for LP - [강의영상],
   [강의자료](https://doc.co/UFqcH1/D3RiTL)
 - Lab: Graphical Solution using Python -
   [강의영상](https://youtu.be/7y724Y3dTHQ?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
@@ -115,10 +115,10 @@ K-MOOC: Operation Research with Python
   [강의영상](https://youtu.be/xvhmqiv-ql8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VBMo8j/D3RiTL)
 
 ### 10주차: Network Model
-- Network model basic concepts - [강의영상](https://vimeo.com/206497991/7f0c7d4233), [강의자료]()
-- Assignment - [강의영상](https://www.youtube.com/watch?v=MWySWZhSzwk&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=28&t=26s), [강의자료]()
-- Transportation - [강의영상](https://www.youtube.com/watch?v=kpG6EAblTj8&t=5s&index=31&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]()
-- Transshipment - [강의영상](https://www.youtube.com/watch?v=glFUXwmOJhk&index=33&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]()
+- Network model basic concepts - [강의영상](https://vimeo.com/206497991/7f0c7d4233), [강의자료]
+- Assignment - [강의영상](https://www.youtube.com/watch?v=MWySWZhSzwk&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=28&t=26s), [강의자료]
+- Transportation - [강의영상](https://www.youtube.com/watch?v=kpG6EAblTj8&t=5s&index=31&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]
+- Transshipment - [강의영상](https://www.youtube.com/watch?v=glFUXwmOJhk&index=33&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]
 
 ### 11주차: Wrap-Up
-- Data Science Overview & Next work - [강의영상](https://vimeo.com/206497513/e92690df91), [강의자료]()
+- Data Science Overview & Next work - [강의영상](https://youtu.be/jInZLT8aW-E?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]
