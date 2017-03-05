@@ -100,10 +100,10 @@ K-MOOC: Operation Research with Python
 - Lecture: Simplex Algorithm Process - [강의영상](https://youtu.be/xvhmqiv-ql8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VBMo8j/D3RiTL)
 
 ### 10주차: Network Model
-- Network model basic concepts - [강의영상](https://www.youtube.com/watch?v=M4p-nUCe-ig&index=32&t=1s&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]
-- Assignment - [강의영상](https://www.youtube.com/watch?v=MWySWZhSzwk&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=28&t=26s), [강의자료]
-- Transportation - [강의영상](https://www.youtube.com/watch?v=kpG6EAblTj8&t=5s&index=31&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]
-- Transshipment - [강의영상](https://www.youtube.com/watch?v=glFUXwmOJhk&index=33&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]
+- Network model basic concepts - [강의영상](https://www.youtube.com/watch?v=M4p-nUCe-ig&index=32&t=1s&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/RkkWM5/D3RiTL)
+- Assignment - [강의영상](https://www.youtube.com/watch?v=MWySWZhSzwk&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=28&t=26s), [강의자료](https://doc.co/WK3SqR/D3RiTL)
+- Transportation - [강의영상](https://www.youtube.com/watch?v=kpG6EAblTj8&t=5s&index=31&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/PWh25d/D3RiTL)
+- Transshipment - [강의영상](https://www.youtube.com/watch?v=glFUXwmOJhk&index=33&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/1kQKEo/D3RiTL)
 
 ### 11주차: Wrap-Up
-- Data Science Overview & Next work - [강의영상](https://youtu.be/jInZLT8aW-E?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]
+- Data Science Overview & Next work - [강의영상](https://youtu.be/jInZLT8aW-E?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/2DjaxM/D3RiTL)
