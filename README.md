@@ -100,7 +100,7 @@ K-MOOC: Operation Research with Python
 
 ### 8주차: LP Application #2
 - Lab: Blending Problems -
-  [강의영상](https://youtu.be/nOhos1kKo2c?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VFgdeu/D3RiTL)
+  [강의영상](https://youtu.be/Vfx_OnjTQqY?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VFgdeu/D3RiTL)
 - Lab: Inventory problems -
   [강의영상](https://youtu.be/V05wfu5lLG8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/uWE7uy/D3RiTL)
 - Lab: Multiperiod Financial Models -
