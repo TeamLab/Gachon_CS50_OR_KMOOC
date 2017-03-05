@@ -77,45 +77,30 @@ K-MOOC: Operation Research with Python
   [강의자료](https://doc.co/mziVa1/D3RiTL)
 
 ### 6주차: Linear Programming
-- Lecture: Linear Programming Overview - [강의영상](https://youtu.be/ABh2xQC5q28?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
-  [강의자료](https://doc.co/4n21zH/D3RiTL)
-- Lecture: Graphical Solution for LP - [강의영상],
-  [강의자료](https://doc.co/UFqcH1/D3RiTL)
-- Lab: Graphical Solution using Python -
-  [강의영상](https://youtu.be/7y724Y3dTHQ?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
-  [강의자료](https://doc.co/7naGkR/D3RiTL)
-- Lab: Linear Programming using Gurobi -
-  [강의영상](https://youtu.be/bm7HsHnxFr0?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
-  [강의자료](https://doc.co/nBwDT1/D3RiTL)
+- Lecture: Linear Programming Overview - [강의영상](https://youtu.be/ABh2xQC5q28?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/4n21zH/D3RiTL)
+- Lecture: Graphical Solution for LP - [강의영상](https://www.youtube.com/watch?v=srgdVQzzr3U&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=17), [강의자료](https://doc.co/UFqcH1/D3RiTL)
+- Lab: Graphical Solution using Python - [강의영상](https://youtu.be/7y724Y3dTHQ?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/7naGkR/D3RiTL)
+- Lab: Linear Programming using Gurobi - [강의영상](https://youtu.be/bm7HsHnxFr0?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/nBwDT1/D3RiTL)
 
 ### 7주차: LP Application #1
 - Lecture: Application Overview -
   [강의영상](https://youtu.be/AtxmJRVmtwA?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/3HzbcX/D3RiTL)
-- Lab: Diet Problem -
-  [강의영상](https://youtu.be/mS6uJwTT8Yk?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/wTgcst/D3RiTL)
-- Lab: Work Scheduling Problem -
-  [강의영상](https://youtu.be/igj5EDyl9p8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/v9RkQx/D3RiTL)
-- Lab: Project Selection -
-  [강의영상](https://youtu.be/kUtorfK2KJ8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/W1x4k3/D3RiTL)
+- Lab: Diet Problem - [강의영상](https://youtu.be/mS6uJwTT8Yk?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/wTgcst/D3RiTL)
+- Lab: Work Scheduling Problem - [강의영상](https://youtu.be/igj5EDyl9p8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/v9RkQx/D3RiTL)
+- Lab: Project Selection - [강의영상](https://youtu.be/kUtorfK2KJ8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/W1x4k3/D3RiTL)
 
 ### 8주차: LP Application #2
-- Lab: Blending Problems -
-  [강의영상](https://youtu.be/Vfx_OnjTQqY?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VFgdeu/D3RiTL)
-- Lab: Inventory problems -
-  [강의영상](https://youtu.be/V05wfu5lLG8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/uWE7uy/D3RiTL)
-- Lab: Multiperiod Financial Models -
-  [강의영상](https://youtu.be/8z1javfoqh0?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/F9JKZr/D3RiTL)
+- Lab: Blending Problems - [강의영상](https://youtu.be/nOhos1kKo2c?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VFgdeu/D3RiTL)
+- Lab: Inventory problems - [강의영상](https://youtu.be/V05wfu5lLG8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/uWE7uy/D3RiTL)
+- Lab: Multiperiod Financial Models - [강의영상](https://youtu.be/8z1javfoqh0?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/F9JKZr/D3RiTL)
 
 ### 9주차: Simplex Algorithm
-- Lecture - Standard Form
-  [강의영상](https://youtu.be/eqgLsDfrddY?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/k7hWgr/D3RiTL)
-- Lecture - Basic Variable & Non-Basic Variable
-  [강의영상](https://youtu.be/E9aNwcrXz-s?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/w8RUWg/D3RiTL)
-- Lecture - Simplex Algorithm Process
-  [강의영상](https://youtu.be/xvhmqiv-ql8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VBMo8j/D3RiTL)
+- Lecture: Standard Form - [강의영상](https://youtu.be/eqgLsDfrddY?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/k7hWgr/D3RiTL)
+- Lecture: Basic Variable & Non-Basic Variable - [강의영상](https://youtu.be/E9aNwcrXz-s?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/w8RUWg/D3RiTL)
+- Lecture: Simplex Algorithm Process - [강의영상](https://youtu.be/xvhmqiv-ql8?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/VBMo8j/D3RiTL)
 
 ### 10주차: Network Model
-- Network model basic concepts - [강의영상](https://vimeo.com/206497991/7f0c7d4233), [강의자료]
+- Network model basic concepts - [강의영상](https://www.youtube.com/watch?v=M4p-nUCe-ig&index=32&t=1s&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]
 - Assignment - [강의영상](https://www.youtube.com/watch?v=MWySWZhSzwk&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ&index=28&t=26s), [강의자료]
 - Transportation - [강의영상](https://www.youtube.com/watch?v=kpG6EAblTj8&t=5s&index=31&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]
 - Transshipment - [강의영상](https://www.youtube.com/watch?v=glFUXwmOJhk&index=33&list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료]
