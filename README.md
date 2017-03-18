@@ -1,4 +1,4 @@
-K-MOOC: Operation Research with Python
+K-MOOC: Operations Research with Python
 ======================================
 
 본 강의는 교육부의 "K-MOOC 강좌개발지원 사업"의 일환으로 가천대학교 ACE
@@ -6,7 +6,7 @@ K-MOOC: Operation Research with Python
 과학 시리즈 MOOC의 일환으로 제작됩니다. 본 과정은 아래와 같이
 구성됩니다.
 - [Introduction to Python Programming](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
-- Operation Research with Python Programming - 본과정
+- Operations Research with Python Programming - 본과정
 - [Introduction to Data Science](https://github.com/TeamLab/data_school_at_gachon)
 - Large-Scale Data Analysis on Cloud - 기획중
 
@@ -14,16 +14,16 @@ K-MOOC: Operation Research with Python
 
 ## 강의 개요
 
-* 강좌명: Operation Research with Python
+* 강좌명: Operations Research with Python
 * 강의자명: 가천대학교 산업경영공학과 최성철 교수
 * Facebook: [Gachon CS50](https://www.facebook.com/GachonCS50)
 * Email: teamlab.gachon@gmail.com
 
 ## 강의 구성
 
-### 1주차: Introduction to Operation Research
+### 1주차: Introduction to Operations Research
 
-- Lecture: Operation Research Overview -
+- Lecture: Operations Research Overview -
   [강의영상](https://youtu.be/aoAjofpLgWI?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
   [강의자료](https://doc.co/h3T7mC/D3RiTL)
 - Lecture: OR Concepts -
@@ -45,7 +45,7 @@ K-MOOC: Operation Research with Python
 
 ### 3주차: Python for Optimization
 
-- Lecture: Python Environment for Operation Research -
+- Lecture: Python Environment for Operations Research -
   [강의영상](https://youtu.be/DVFvST5Jr2k?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ), [강의자료](https://doc.co/Rz2wAA/D3RiTL)
 - Lab: Environment Setup -
   [강의영상](https://youtu.be/tJDPOMf0sqE?list=PLBHVuYlKEkUJWcQUEauUv7iyrzEsZmdYQ),
