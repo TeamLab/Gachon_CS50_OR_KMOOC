@@ -5,7 +5,7 @@
 
 [https://github.com/TeamLab/Gachon_CS50_OR_KMOOC/blob/master/gurobi_quiz/assignment_problem/assignment_problem.zip](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC/blob/master/gurobi_quiz/assignment_problem/assignment_problem.zip)
 
-다운로드를 위해 View Raw 또는 Download 버튼을 클릭합니다. 또는 [assignment_problem - 다운로드 링크](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC/raw/master/gurobi_quiz/product_mix/product_mix_problem.zip) 를 클릭하면 자동으로 다운로드가 됩니다. 다운로드 된 assignment_problem.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+다운로드를 위해 View Raw 또는 Download 버튼을 클릭합니다. 또는 [assignment_problem - 다운로드 링크](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC/raw/master/gurobi_quiz/assignment_problem/assignment_problem.zip) 를 클릭하면 자동으로 다운로드가 됩니다. 다운로드 된 assignment_problem.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
 
 ## PROBLEM DESCRIPTION
 <img src=https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/assignment_problem.png>

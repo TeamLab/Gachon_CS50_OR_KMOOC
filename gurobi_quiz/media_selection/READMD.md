@@ -1,5 +1,5 @@
-# Product Mix Problem
-아래 문제를 풀고, 이익(profit)의 최대값을 구하기 위한 Gurobi Code를 작성하시오.
+# Media Selection Problem
+아래 문제를 풀어 Gurobi Code를 작성하시오.
 
 ## 숙제 template 파일 다운로드
 먼저 숙제 template 파일을 다운받아야 합니다. Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
