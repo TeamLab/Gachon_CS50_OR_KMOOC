@@ -1,5 +1,5 @@
 # Alloy Problem
-
+Download From - https://github.com/TeamLab/Gachon_CS50_OR_KMOOC/blob/master/gurobi_quiz/alloy_problem/alloy_problem.zip
 
 ## PROBLEM DESCRIPTION
 The Metalco Company desires to blend a new alloy of 40% tin, 35% zinc, and 25% lead from several available alloys having the properties given in Table. Formulate a linear program whose solution would yield the proportions of these alloys that should be blended to produce a new alloy at minimum cost.
