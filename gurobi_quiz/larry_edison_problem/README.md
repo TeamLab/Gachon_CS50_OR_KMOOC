@@ -1,5 +1,7 @@
 # Larry Edision Computer Center
 
+Donwload file - https://github.com/TeamLab/Gachon_CS50_OR_KMOOC/blob/master/gurobi_quiz/larry_edison_problem/larry_edison.zip
+
 ## Problem Description
 Larry Edison is the director of the Computer Center for Buckly College. He now needs to schedule the staffing of the center. It is open from 8 A.M. until midnight. Larry has monitored the usage of the center at various times of the day, and determined that the following number of computer consultants are required:
 
