@@ -1,0 +1,9 @@
+# Transportation problem
+
+[https://github.com/TeamLab/Gachon_CS50_OR_KMOOC/blob/master/gurobi_quiz/versatech_problem/versatech.zip](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC/blob/master/gurobi_quiz/versatech_problem/versatech.zip)
+다운로드를 위해 View Raw 또는 Download 버튼을 클릭합니다. 또는 [versatech - 다운로드 링크](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC/raw/master/gurobi_quiz/versatech_problem/versatech.zip) 를 클릭하면 자동으로 다운로드가 됩니다. 다운로드 된 versatech.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+
+## Problem Description
+The Versatech Corporation has decided to produce three new products. Five branch plants now have excess product capacity. The unit manufacturing cost of the first product would be $31, $29, $32, $28, and $29 in Plants 1, 2, 3, 4, and 5, respectively. The unit manufacturing cost of the second product would be $45, $41, $46, $42, and $43 in Plants 1, 2, 3, 4, and 5, respectively. The unit manufacturing cost of the third product would be $38, $35, and $40 in Plants 1, 2, and 3, respectively, whereas Plants 4 and 5 do not have the capability for producing this product. Sales forecasts indicate that 600, 1,000, and 800 units of products 1, 2, and 3, respectively, should be produced per day. Plants 1, 2, 3, 4, and 5 have the capacity to produce 400, 600, 400, 600, and 1,000 units daily, respectively, regardless of the product or combination of products involved. Assume that any plant having the capability and capacity to produce them can produce any combination of the products in any quantity. Management wishes to know how to allocate the new products to the plants to minimize total manufacturing cost.
+
+Write gurobi code for the problem.
